@@ -195,6 +195,7 @@ a div{
 }
 .razorpay-payment-button .svelte-ohbfj8 a{
   width: 80px !important;
+  font-family: ui-rounded;
   /* height: px !important; */
 }
 
