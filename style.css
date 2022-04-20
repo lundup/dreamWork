@@ -19,6 +19,7 @@
 } 
 .container form{
     position: fixed;
+    right: 0;
     
 }
 
@@ -175,7 +176,7 @@ background-color: #FF6600
     position: fixed;
     bottom: 0;
     font-size: large;
-    right: 550px;
+    right: 0;
 }
 a{
     text-decoration: none;
@@ -183,7 +184,19 @@ a{
 a div{
     color: white;
 }
-
+.PaymentButton-contents span{
+  font-size: 27px !important;
+  
+}
+.razorpay-payment-button.svelte-ohbfj8 a{
+  
+  display: flex;
+  align-items: center !important;
+}
+.razorpay-payment-button .svelte-ohbfj8 a{
+  width: 80px !important;
+  /* height: px !important; */
+}
 
 
 
